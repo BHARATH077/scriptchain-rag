@@ -1,0 +1,3 @@
+UserA: I tried scriptchain with API key but got 401. How do I fix?
+UserB: Make sure the header is X-API-Key, and that your key has 'run' permission.
+UserC: I think the header should be Authorization: Bearer <token>.

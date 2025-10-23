@@ -1,0 +1,3 @@
+UserD: How to handle rate limits? I'm getting 429 frequently.
+UserE: The docs say exponential backoff; I used 1s, 2s, 4s and it works.
+UserF: Alternatively, you can set parallelism to 1 to avoid bursts.
